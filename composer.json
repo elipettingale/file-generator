@@ -1,0 +1,11 @@
+{
+    "name": "smartercoding/file-generator",
+    "autoload": {
+        "psr-4": {
+            "Smartercoding\\FileGenerator\\": "src/"
+        }
+    },
+    "require": {
+        "elipettingale/case-converter": "^1.4"
+    }
+}
