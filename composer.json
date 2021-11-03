@@ -2,7 +2,7 @@
     "name": "smartercoding/file-generator",
     "autoload": {
         "psr-4": {
-            "Smartercoding\\FileGenerator\\": "src/"
+            "SmarterCoding\\FileGenerator\\": "src/"
         }
     },
     "require": {
